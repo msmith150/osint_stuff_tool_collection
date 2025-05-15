@@ -1,6 +1,6 @@
 
 <div align="center">
-     <h1>Cyber Detective's OSINT tools collection</h1>
+     <h1>OSINT tools collection</h1>
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection"> <br>
      <br>
@@ -102,6 +102,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Duolingo](#duolingo)
     - [Universal](#universal)
     - [Downloaders](#downloaders)
+    - [Roblox](#roblox)
 - [Domain/IP/Links](#domainiplinks)
     - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
     - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
